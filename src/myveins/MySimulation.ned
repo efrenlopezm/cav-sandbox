@@ -19,6 +19,7 @@ import inet.node.inet.StandardHost;
 import org.car2x.veins.nodes.Car;
 import org.car2x.veins.nodes.RSU;
 
+
 network MyVeinsSimulation
 {
     parameters:
